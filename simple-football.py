@@ -28,7 +28,7 @@ while (userOddEven == ""):
     if (userOddEven == "odd" or userOddEven == "even"):
         break
     else:
-        print("Invalid .\n")
+        print("Invalid input .\n")
         userOddEven = ""
 
 print('You choose', userOddEven)
